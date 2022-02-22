@@ -2,7 +2,7 @@
 ![Docker build](https://github.com/eritislami/evobot/actions/workflows/docker.yml/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-![logo](https://imageshare.best/KKJ2X0.13a38b4fe8c6fdcac948830af73f55b1f675f408f37db6768e79de839b4d5320/68747470733a2f2f692e696d6775722e636f6d2f7a7245383048592e706e67)
+![logo](https://screenshot.best/KKJ2X0.12345788222456.png)
 
 # 🤖 EvoBot (Discord Music Bot)
 > EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
